@@ -1,0 +1,15 @@
+
+.footer
+{
+    margin-top:auto;
+
+}
+.navst
+{
+   background-color: antiquewhite;
+}
+
+body{
+    display:flex;
+    flex-direction:column;
+  }
